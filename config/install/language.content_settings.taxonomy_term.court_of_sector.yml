@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.court_of_sector
+id: taxonomy_term.court_of_sector
+target_entity_type_id: taxonomy_term
+target_bundle: court_of_sector
+default_langcode: site_default
+language_alterable: false
