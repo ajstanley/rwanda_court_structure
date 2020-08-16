@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'General Assembly'
+vid: general_assembly
+description: 'Rwandan Court Structure'
+weight: 0

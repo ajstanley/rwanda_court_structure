@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'Court of Sector'
+vid: court_of_sector
+description: 'Rwandan Court Structure'
+weight: 0

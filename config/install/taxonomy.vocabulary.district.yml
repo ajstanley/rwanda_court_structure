@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: District
+vid: district
+description: 'Rwandan Court Structure'
+weight: 0

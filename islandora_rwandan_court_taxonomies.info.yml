@@ -1,0 +1,7 @@
+name: 'Rwandan Court Taxonomies'
+type: module
+core: 8.x
+package: Islandora
+core_incompatible: false
+dependencies:
+  - taxonomy
