@@ -1,8 +1,2 @@
 bundle: islandora
-required:
-  - taxonomy.vocabulary.court_of_appeal
-  - taxonomy.vocabulary.court_of_cell
-  - taxonomy.vocabulary.court_of_sector
-  - taxonomy.vocabulary.district
-  - taxonomy.vocabulary.general_assembly
-  - taxonomy.vocabulary.sector
+required: true

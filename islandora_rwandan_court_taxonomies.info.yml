@@ -4,4 +4,9 @@ core: 8.x
 package: Islandora
 core_incompatible: false
 dependencies:
+  - field
+  - field_permissions
+  - language
+  - path
   - taxonomy
+  - text
