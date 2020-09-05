@@ -5,8 +5,15 @@ dependencies:
     - field.field.taxonomy_term.general_assembly.field_sector
     - taxonomy.vocabulary.general_assembly
   module:
+    - field_layout
+    - layout_discovery
     - path
     - text
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
 id: taxonomy_term.general_assembly.default
 targetEntityType: taxonomy_term
 bundle: general_assembly
